@@ -1,4 +1,8 @@
-.background {
+  html, body {
+   overflow-x: hidden;
+  }
+
+  .background {
    background-image: url(https://iohotnik.ru/wp-content/uploads/2019/02/usmanka.jpg);
     background-repeat: no-repeat;
    background-position: center center;
